@@ -1,4 +1,4 @@
-package org.example.trie;
+package org.example.string.trie;
 
 public class TrieIterative {
 

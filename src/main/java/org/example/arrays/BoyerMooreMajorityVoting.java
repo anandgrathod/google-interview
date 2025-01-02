@@ -1,4 +1,4 @@
-package org.example;
+package org.example.arrays;
 
 import org.junit.jupiter.api.Assertions;
 
